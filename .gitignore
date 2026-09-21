@@ -1,0 +1,12 @@
+# Gradle
+.gradle/
+build/
+ax_compose/build/
+.kotlin/
+
+# Local Android SDK config
+local.properties
+
+# IDE
+.idea/
+*.iml
